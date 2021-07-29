@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/usersApiAssignment/static/css/main.a617e044.chunk.css",
+    "main.js": "/usersApiAssignment/static/js/main.4fad4fc2.chunk.js",
+    "main.js.map": "/usersApiAssignment/static/js/main.4fad4fc2.chunk.js.map",
+    "runtime-main.js": "/usersApiAssignment/static/js/runtime-main.c5a727e8.js",
+    "runtime-main.js.map": "/usersApiAssignment/static/js/runtime-main.c5a727e8.js.map",
+    "static/css/2.455652b6.chunk.css": "/usersApiAssignment/static/css/2.455652b6.chunk.css",
+    "static/js/2.c465ab6d.chunk.js": "/usersApiAssignment/static/js/2.c465ab6d.chunk.js",
+    "static/js/2.c465ab6d.chunk.js.map": "/usersApiAssignment/static/js/2.c465ab6d.chunk.js.map",
+    "static/js/3.94a0c610.chunk.js": "/usersApiAssignment/static/js/3.94a0c610.chunk.js",
+    "static/js/3.94a0c610.chunk.js.map": "/usersApiAssignment/static/js/3.94a0c610.chunk.js.map",
+    "index.html": "/usersApiAssignment/index.html",
+    "static/css/2.455652b6.chunk.css.map": "/usersApiAssignment/static/css/2.455652b6.chunk.css.map",
+    "static/css/main.a617e044.chunk.css.map": "/usersApiAssignment/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.c465ab6d.chunk.js.LICENSE.txt": "/usersApiAssignment/static/js/2.c465ab6d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/usersApiAssignment/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5a727e8.js",
+    "static/css/2.455652b6.chunk.css",
+    "static/js/2.c465ab6d.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.4fad4fc2.chunk.js"
+  ]
+}
